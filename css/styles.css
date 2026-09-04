@@ -61,6 +61,23 @@ body{
     background-color: #4682B4;
 }
 
+/* links */
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #4682B4;
+}
+
+a:visited {
+    color: #4682B4;
+}
+
+a:hover {
+    color: #366f9e;
+}
+
 /* For mobile viewers */
 @media only screen and (max-width: 600px) {
 
