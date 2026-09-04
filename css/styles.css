@@ -54,6 +54,7 @@ body{
     height: 24px !important;
     padding: 0 5px;
     border: none;
+	background-color: #366f9e;
 	color: rgb(255,255,255);
 }
 .btn:hover{
@@ -65,7 +66,7 @@ body{
 	color: rgb(255,255,255);
 }
 .btn:visited{
-    background-color: #4682B4;
+    background-color: #366f9e;
 	color: rgb(255,255,255);
 }
 
