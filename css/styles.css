@@ -53,16 +53,16 @@ body{
     height: 24px !important;
     padding: 0 5px;
     border: none;
-    background-color: #95B9C7;
+    background-color: #4682B4;
 }
 .btn:hover{
-    background-color: #95B9C7;
+    background-color: #4682B4;
 }
 .btn:active{
-    background-color: #95B9C7;
+    background-color: #4682B4;
 }
 .btn:visited{
-    background-color: #95B9C7;
+    background-color: #4682B4;
 }
 
 /* For mobile viewers */
