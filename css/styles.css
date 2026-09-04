@@ -2,6 +2,8 @@
 body{
     margin-left: 15%;
     width: 70%;
+	margin-top: 56px;
+    padding-top: 30px;
 	margin-bottom: 25px;
 	background-color: #D4F6D4;
 }
@@ -36,14 +38,14 @@ body{
     justify-content: space-between;
 }
 .h-intro > div{
-    width: 50%; 
+    width: 80%; 
 }
 .selfpic{
     overflow: auto;
     text-align: center;
 }
 #selfpic{
-    width: 50%;
+    width: 80%;
 }
 
 /* Projects */
