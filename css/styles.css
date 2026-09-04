@@ -1,13 +1,15 @@
 /* Body */
 body{
     margin-bottom: 30px;
-	background: #c1e1c1;
+	background-color: #c1e1c1;
 	color: rgb(193, 225, 193);
 }
 .content{
     margin-left: 15%;
     width: 70%;
 	margin-bottom: 25px;
+	background-color: #c1e1c1;
+	color: rgb(193, 225, 193);
 }
 .footer{
     background-color: #4682B4;
