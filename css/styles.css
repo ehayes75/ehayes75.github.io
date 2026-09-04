@@ -8,8 +8,8 @@ body{
 	background-color: #D4F6D4;
 }
 .footer{
-    background-color: #d8f2d8;
-    color: rgb(193, 225, 193);
+	margin-left: -15%;
+    background-color: #95bf95;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -53,15 +53,19 @@ body{
     height: 24px !important;
     padding: 0 5px;
     border: none;
+	color: rgb(255,255,255);
 }
 .btn:hover{
     background-color: #366f9e;
+	color: rgb(255,255,255);
 }
 .btn:active{
     background-color: #366f9e;
+	color: rgb(255,255,255);
 }
 .btn:visited{
     background-color: #4682B4;
+	color: rgb(255,255,255);
 }
 
 /* links */
