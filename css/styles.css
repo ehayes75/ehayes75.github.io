@@ -1,10 +1,9 @@
 /* Body */
 body{
     margin-bottom: 30px;
-	background-color: #d8f2d8;
 }
 .footer{
-    background-color: #4682B4;
+    background-color: #d8f2d8;
     color: rgb(193, 225, 193);
     position: fixed;
     bottom: 0;
