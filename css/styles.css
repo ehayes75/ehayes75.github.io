@@ -37,9 +37,11 @@ body{
     overflow: auto;
     display: flex;
     justify-content: space-between;
+	font-size: 20px;
 }
 .h-intro > div{
     width: 80%; 
+	font-size: 20px;
 }
 .selfpic{
     overflow: auto;
